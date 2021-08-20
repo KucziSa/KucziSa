@@ -1,4 +1,4 @@
-### <h1 style="text-align:center;">Hi there 👋</h1>
+### <h1 style="text-align:center;">Hi there 👋</h1> </br>
 
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
 <p>🌱 I’m currently learning JavaScript and Swift</p> </br>
