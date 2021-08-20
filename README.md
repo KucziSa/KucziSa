@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Spotify AdBlock </br>
-🌱 I’m currently learning JavaScript and Swift </br>
-💬 Ask me about anything you want 😅 </br>
-📫 How to reach me: ...
+<h1>🔭 I’m currently working on Spotify AdBlock</h1> </br>
+<h1>🌱 I’m currently learning JavaScript and Swift</h1> </br>
+<h1>💬 Ask me about anything you want 😅  </h1></br>
+<h1>📫 How to reach me: ... </h1>
 
 
 
