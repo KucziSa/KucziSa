@@ -3,7 +3,7 @@
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
 <p>🌱 I’m currently learning JavaScript and Swift</p> </br>
 <p>💬 Ask me about anything you want 😅  </p></br>
-<p>📫 How to reach me: ... </h1>
+<p>📫 How to reach me: ... </p>
 
 
 <h2 align="center">Stats</h2>
@@ -17,6 +17,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1hipo1&layout=compact&count_private=true&hide_border=true&hide_title=false&theme=react)
 
+<h2 align="center"> Contact </h2>
 
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiPjwvbGluZT48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiPjwvcGF0aD48L3N2Zz4=&color=363D59&message=Website)](https://kuczis.cf/)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=facebook&color=1DA1F2&message=facebook)](https://facebook.com/kuczisa/)
