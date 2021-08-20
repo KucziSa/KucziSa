@@ -1,4 +1,4 @@
-### <h1 style="text-align:center;">Hi there 👋</h1> </br>
+### <h1 align="center">Hi there 👋</h1> </br>
 
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
 <p>🌱 I’m currently learning JavaScript and Swift</p> </br>
@@ -7,7 +7,7 @@
 
 
 
-###![](https://komarev.com/ghpvc/?username=1hipo1&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=1hipo1&style=flat-square&color=blueviolet)
 
 
 
