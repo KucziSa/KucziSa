@@ -1,9 +1,9 @@
-### Hi there 👋
+### <h1 style="text-align:center;">Hi there 👋</h1>
 
-<h1>🔭 I’m currently working on Spotify AdBlock</h1> </br>
-<h1>🌱 I’m currently learning JavaScript and Swift</h1> </br>
-<h1>💬 Ask me about anything you want 😅  </h1></br>
-<h1>📫 How to reach me: ... </h1>
+<p>🔭 I’m currently working on Spotify AdBlock</p> </br>
+<p>🌱 I’m currently learning JavaScript and Swift</p> </br>
+<p>💬 Ask me about anything you want 😅  </p></br>
+<p>📫 How to reach me: ... </h1>
 
 
 
