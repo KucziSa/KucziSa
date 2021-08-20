@@ -23,7 +23,7 @@
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=facebook&color=1DA1F2&message=facebook)](https://facebook.com/kuczisa/)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=facebook)](https://instagram.com/hipolitplatek)
 
-[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=captainpierog#1371)](https://discord.gg/)
+[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message='captainpierog#1371')](https://discord.gg/)
 
 <h2 align="center">Known tools</h2>
 
