@@ -7,6 +7,9 @@
 
 
 
+![](https://komarev.com/ghpvc/?username=1hipo1&style=flat-square&color=blueviolet)
+
+
 
 <!--
 **1hipo1/1hipo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
