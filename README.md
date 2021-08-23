@@ -14,9 +14,9 @@
 
 <p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=1hipo1&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem"></p>
 
-<p align='center'>
+<script align='center'>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1hipo1&layout=compact&count_private=true&hide_border=true&hide_title=false&theme=react)
-</p>
+</script>
 
 
 
