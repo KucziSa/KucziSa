@@ -3,7 +3,7 @@
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
 <p>🌱 I’m currently learning JavaScript and Swift</p> </br>
 <p>💬 Ask me about anything you want 😅  </p></br>
-<p>📫 How to reach me: ... </p>
+<p>📫 How to reach me: <a href="https://kuczis.mysocials.pl/">MySocials</a> </p>
 
 
 <h2 align="center">Stats</h2>
