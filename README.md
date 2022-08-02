@@ -9,7 +9,9 @@
 <h2 align="center">Stats</h2>
 
 
-![](https://komarev.com/ghpvc/?username=1hipo1&style=flat-square&color=blueviolet)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=KucziSa&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KucziSa&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=1hipo1&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.75rem">
