@@ -9,6 +9,8 @@
 <h2 align="center">Stats</h2>
 
 
+![](https://komarev.com/ghpvc/?username=1hipo1&color=blueviolet)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=KucziSa&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
