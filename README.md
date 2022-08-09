@@ -1,3 +1,5 @@
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/KucziSa/KucziSa/blob/master/nice.gif?raw=true" width="100%">
+
 ### <h1 align="center">Good Morning Sir 👋</h1> </br>
 
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
@@ -25,7 +27,7 @@
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=facebook)](https://instagram.com/hipolitplatek)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=discord)](https://discordapp.com/users/657289733998641162)
 
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/KucziSa/KucziSa/blob/master/nice.gif?raw=true" width="100%">
+
 
 <h2 align="center">Known tools</h2>
 
