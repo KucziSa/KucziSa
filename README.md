@@ -2,7 +2,7 @@
 
 ### <h1 align="center">Good Morning Sir 👋</h1> </br>
 
-<h2 href="https://kuczisa.github.io/">👨‍💻 Check my work, web apps etc. </h2> </br>
+<h2 >👨‍💻 Check my work, web apps etc. <a href="https://kuczisa.github.io/"> Visit Site</a> </h2> </br>
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
 <p>🌱 I’m currently learning JavaScript and Swift</p> </br>
 <p>💬 Ask me about anything you want 😅  </p></br>
