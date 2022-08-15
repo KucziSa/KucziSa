@@ -4,7 +4,7 @@
 
 <h2 ><a href="https://kuczisa.github.io/">👨‍💻 Check out my work, web apps etc.  Visit Site👨‍💻</a> </h2> </br>
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
-<p>🌱 I’m currently learning JavaScript and Swift</p> </br>
+<p>🌱 I’m currently learning JavaScript, Swift and Python</p> </br>
 <p>💬 Ask me about anything you want 😅  </p></br>
 <p>📫 How to reach me: <a href="https://kuczia.github.io/">MySocials</a> </p>
 
