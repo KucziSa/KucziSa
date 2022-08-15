@@ -2,10 +2,11 @@
 
 ### <h1 align="center">Good Morning Sir 👋</h1> </br>
 
+<h2 href="https://kuczisa.github.io/">👨‍💻 Check my work, web apps etc. </h2> </br>
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
 <p>🌱 I’m currently learning JavaScript and Swift</p> </br>
 <p>💬 Ask me about anything you want 😅  </p></br>
-<p>📫 How to reach me: <a href="https://kuczis.mysocials.pl/">MySocials</a> </p>
+<p>📫 How to reach me: <a href="https://kuczia.github.io/">MySocials</a> </p>
 
 
 <h2 align="center">Stats</h2>
