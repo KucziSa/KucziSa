@@ -1,6 +1,7 @@
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/KucziSa/KucziSa/blob/master/nice.gif?raw=true" width="100%">
 
 ### <h1 align="center">Good Morning Sir 👋</h1> </br>
+[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=Instagram)](https://instagram.com/hipolitplatek)
 
 <h2 ><a href="https://kuczisa.github.io/">👨‍💻 Check out my work, web apps etc.  Visit Site👨‍💻</a> </br> </br>
 <a href="https://kuczia.github.io/">📫 How to reach me: KucziSa</a> </h2> </br>
@@ -26,7 +27,7 @@
 
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiPjwvbGluZT48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiPjwvcGF0aD48L3N2Zz4=&color=363D59&message=Website)](https://kuczis.mysocials.pl/)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=facebook&color=1DA1F2&message=facebook)](https://facebook.com/kuczisa/)
-[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=facebook)](https://instagram.com/hipolitplatek)
+[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=Instagram)](https://instagram.com/hipolitplatek)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=discord)](https://discordapp.com/users/657289733998641162)
 
 
