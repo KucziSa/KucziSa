@@ -6,7 +6,7 @@
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=facebook&color=1DA1F2&message=facebook)](https://facebook.com/kuczisa/)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=Instagram)](https://instagram.com/hipolitplatek)
 [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=discord)](https://discordapp.com/users/657289733998641162)
-
+<h2 align="center">600k+ lines of code</h2>
 <h2 ><a href="https://kuczisa.github.io/">👨‍💻 Check out my work, web apps etc.  Visit Site👨‍💻</a> </br> </br>
 <a href="https://kuczia.github.io/">📫 How to reach me: KucziSa</a> </h2> </br>
 <p>🔭 I’m currently working on Spotify AdBlock</p> </br>
