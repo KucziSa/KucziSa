@@ -14,6 +14,19 @@
 <p>💬 Ask me about anything you want 😅  </p></br>
 
 ### Apps: 
+* <a href="https://kuczisa.github.io/apps/QrCodeGenerator/QrCodeGenerator.html">Qr Code Generator</a> </br>
+* <a href="https://kuczisa.github.io/apps/Alarm/Alarm.html">Alarm Clock</a> </br>
+* <a href="https://kuczisa.github.io/apps/Notepad/Notepad.html">Notepad</a> </br>
+* <a href="https://kuczisa.github.io/apps/CurrencyConverter/CurrencyConverter.html">Currency Converter</a> </br>
+* <a href="https://kuczisa.github.io/apps/Dictionary/Dictionary.html">Dictionary</a> </br>
+* <a href="https://kuczisa.github.io/apps/ImageEditor/ImageEditor.html">Image Editor</a> </br>
+* <a href="https://kuczisa.github.io/apps/Memory/Memory.html">Memory</a> </br>
+* <a href="https://kuczisa.github.io/apps/Notes/Notes.html">Notepad</a> </br>
+* <a href="https://kuczisa.github.io/apps/QrCodeReader/QrCodeReader.html">Qr Code Readerr</a> </br>
+* <a href="https://kuczisa.github.io/apps/Quote/Quote.html">Quote</a> </br>
+* <a href="https://kuczisa.github.io/apps/SpeedTest/SpeedTest.html">Typing Speed Test</a> </br>
+* <a href="https://kuczisa.github.io/apps/Translator/Translator.html">Translator</a> </br>
+* <a href="https://kuczisa.github.io/apps/TTS/TTS.html">Text To Speech</a> </br>
 * <a href="https://kuczisa.github.io/apps/Space%20Invaders/SpaceInvaders.html">Space Invader</a> </br>
 * <a href="https://kuczisa.github.io/apps/Tetris/Tetris.html">Tetris</a> </br>
 * <a href="https://kuczisa.github.io/apps/beers/beers.html">Beer Menu</a> </br>
